@@ -1,0 +1,6 @@
+owner=565345741472661535
+prefix=?
+game=Man
+stayinchannel=true
+songinstatus=false
+token=NTcwNDQ4NjE3NDk2NzcyNjY5.XL_V9w.53OnEk9XsjvTiD3d_Jm3SdSo-bU
